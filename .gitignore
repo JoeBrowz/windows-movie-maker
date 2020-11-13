@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+*.py
+*.db
+*.pytest_cache
+.gitattributes
+tmdb_api.json
